@@ -24,45 +24,4 @@ https://com-d-com.vercel.app
 
 
 
-## Video
-https://user-images.githubusercontent.com/77569653/172716965-50560f4a-2acf-4013-ae87-8b474b2a09e3.mp4
-
-
-
-- [x] Landing Page:
-
-<a href="#"> ![screenshot](images/readme-images/landing-page.png) </a>
-
-- [x] Upload File
-
-<a href="#"> ![step1](images/readme-images/step1.png) </a>
-
-
-- [x] Select Action (Compress / De-compress)
-
-<a href="#"> ![step2](images/readme-images/step2.png) </a>
-
-
-- [x] Wait for File Download
-    * File gets downloaded automatically when selected process is complete.
-
-    * Compression - Compression Ratio is also displayed 
-
-    <a href="#"> ![compression](images/readme-images/step3.png) </a>
-    
-    * De-compression
-
-    <a href="#"> ![decompression](images/readme-images/decompression.png) </a>
-
-* Additional Instructions and Warnings are provided if the above steps are not followed correctly
-
-<a href="#"> ![noFile](images/readme-images/nofile.png) </a>
-
-<a href="#"> ![smallFile](images/readme-images/verysmallfile.png)  </a>
-
-
-
-* About the tecnique of Lossless Data Compression with Huffman coding.
-
-<a href="#"> ![info1](images/readme-images/info.jpeg) </a>
 
